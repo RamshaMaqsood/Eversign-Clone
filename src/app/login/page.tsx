@@ -88,7 +88,7 @@ export default function LoginPage() {
 
           {/* Forgot Password Link */}
           <div className="flex justify-between items-center text-sm text-gray-600">
-            <Link href="/forgotPassword" className="text-blue-500 hover:underline">
+            <Link href="/forgotpassword" className="text-blue-500 hover:underline">
               Forgot Password?
             </Link>
             {/* Signup Link */}
