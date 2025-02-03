@@ -63,6 +63,20 @@ export default function Home() {
             Sign Up
           </a>
 
+          <a
+            className="w-[100px] rounded-full  bg-blue-500 text-white p-3 font-semibold hover:bg-blue-600 transition flex items-center justify-center"
+            href="/addBuisness"
+          >
+            Buisness
+          </a>
+
+          <a
+            className="w-[100px] rounded-full  bg-blue-500 text-white p-3 font-semibold hover:bg-blue-600 transition flex items-center justify-center"
+            href="/dashboard"
+          >
+            Dashboard
+          </a>
+
           </div>
 
       </main>
