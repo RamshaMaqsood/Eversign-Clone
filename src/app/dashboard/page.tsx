@@ -72,7 +72,7 @@ const Dashboard: React.FC = () => {
               Welcome to your Dashboard
             </h1>
             <p className="text-lg mt-2">
-              You're doing great! Here’s your activity overview.
+              You&apos;re doing great! Here’s your activity overview.
             </p>
           </div>
 
